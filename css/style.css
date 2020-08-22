@@ -96,7 +96,7 @@ a:visited {
     position: relative;
     width: auto;
     display: inline-block;
-    border: .1px solid black;
+    border: 1px solid black;
     float: right;
     z-index: 99999;
 }
