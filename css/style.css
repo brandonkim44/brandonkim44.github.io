@@ -530,3 +530,7 @@ a:visited {
 .skill-header {
     text-decoration: underline;
 }
+
+.nav {
+    border: 1px solid black;
+}
