@@ -550,6 +550,6 @@ a:visited {
     max-height: 35px;
 }
 
-.background-image-holder.poblano:hover {
-
+.contact-links:hover {
+    text-decoration: underline;
 }
