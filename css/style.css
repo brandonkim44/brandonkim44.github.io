@@ -534,3 +534,18 @@ a:visited {
 .nav {
     border: 1px solid black;
 }
+
+.img-responsive.margin-top-45.about {
+    max-height: 500px;
+    margin: 0 auto;
+}
+
+.github-logo {
+    max-width: 35px;
+    max-height: 35px;
+}
+
+.linkedin-logo {
+    max-width: 35px;
+    max-height: 35px;
+}
