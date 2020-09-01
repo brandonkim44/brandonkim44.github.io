@@ -550,6 +550,11 @@ a:visited {
     max-height: 35px;
 }
 
+.angel-logo {
+    max-width: 41px;
+    max-height: 41px;
+}
+
 .contact-links:hover {
     text-decoration: underline;
 }
