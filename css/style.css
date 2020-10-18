@@ -558,3 +558,19 @@ a:visited {
 .contact-links:hover {
     text-decoration: underline;
 }
+
+/* resume */
+
+.resume-header {
+    text-align: center;
+}
+
+.resume-container {
+    display: flex;
+    justify-content: center;
+}
+
+.resume {
+    width: 800px;
+    height: 1000px;
+}
