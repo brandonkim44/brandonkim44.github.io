@@ -559,6 +559,38 @@ a:visited {
     text-decoration: underline;
 }
 
+/* project desc */
+
+.project-description-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.project-links-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    transform: translate(-5px, 5px);
+    margin-bottom: 10px;
+}
+
+.project-links-container > span, a {
+    color: black;
+    font-size: 14px;
+}
+
+.separator {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.project-links-container > a:hover {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 /* resume */
 
 .resume-header {
