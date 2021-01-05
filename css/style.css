@@ -531,6 +531,10 @@ a:visited {
     text-decoration: underline;
 }
 
+.typewrite {
+    font-size: 20px;
+}
+
 .nav {
     border: 1px solid black;
 }
